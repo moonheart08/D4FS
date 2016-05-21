@@ -1,3 +1,9 @@
 entity_basic_test_GWL
 
-#for testing stuff!
+[OBJECT:ENTITY]
+
+  [ENTITY:BASIC_TEST] #for testing stuff!
+  [SITE_CONTROLLABLE]
+  
+ 
+
