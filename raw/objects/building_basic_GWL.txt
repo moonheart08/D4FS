@@ -9,7 +9,7 @@ building_basic_GWL
   [NAME_COLOR:7:0:1]
   [DIM:2:2]
   [WORK_LOCATION:2:2]
-  [BUIL_LABOR:MASONRY]
+  [BUILD_LABOR:MASONRY]
   [BLOCK:1:1:1:]
   [BLOCK:2:1:0:]
   [TILE:0:1:254:254]
