@@ -2,16 +2,13 @@ weapon_GWL
 
 [OBJECT:ITEM]
 
-[ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE]
-[NAME:battle axe:battle axes]
+[ITEM_WEAPON:ITEM_WEAPON_AXE_SMALL]
+[NAME:axe:axes]
 [SIZE:800]
 [SKILL:AXE]
-[TWO_HANDED:47500]
+[TWO_HANDED:7500]
 [MINIMUM_SIZE:42500]
 [MATERIAL_SIZE:4]
-
-The format is ATTACK:EDGE/BLUNT:contact area:penetration size:verb2nd:verb3rd:noun:velocity multiplier
-Penetration size currently only matters for edged attacks.
 
 [ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
