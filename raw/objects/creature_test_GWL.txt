@@ -3,11 +3,11 @@ creature_test_GWL
 [OBJECT:CREATURE]
 
 [CREATURE:TEST]
-	[DESCRIPTION:A medium-sized creature prone to great ambition.]
+	[DESCRIPTION:A race of creatures from olden times.]
 	[NAME:forgotten one:forgotten ones:forgotten one]
 	[CASTE_NAME:forgotten one:forgotten ones:forgotten one]
 	[OUTSIDER_CONTROLLABLE]
-	[CREATURE_TILE:'1'][COLOR:3:0:0]
+	[CREATURE_TILE:1][COLOR:3:0:0]
 	[CREATURE_SOLDIER_TILE:2]
 	[INTELLIGENT]
 	[CANOPENDOORS]
