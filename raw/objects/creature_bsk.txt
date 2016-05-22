@@ -3,7 +3,7 @@ creature_bsk
 [OBJECT:CREATURE]
 
 [CREATURE:ELFLING_BSK]
-	[DESCRIPTION:Elflings are the sapling stage of the strange plant-creature hybrid Elfinlock. They wander the wilds for a considerable number of years to settle down their roots in distant lands.]
+	[DESCRIPTION:Elflings are the sapling stage of the strange plant-creature hybrid Elfinlock. They wander the wilds for a considerable number of years before taking root in distant lands.]
 	[NAME:elfling:elflings:elfin]
 	[CASTE_NAME:elfling:elflings:elfin]
 	[CREATURE_TILE:'e'][COLOR:7:0:0]
