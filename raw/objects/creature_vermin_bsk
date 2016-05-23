@@ -3,7 +3,7 @@ creature_vermin_bsk
 [OBJECT:CREATURE]
 
 [CREATURE:LOVEBOX_BSK]
-	[DESCRIPTION:A shimmering cubical mollusc that floats gently along the ocean tides. It is known to be a potent aphrodisiac. Excessive consumption may cause breathing difficulties within smaller organics.]
+	[DESCRIPTION:A shimmering cubical mollusc that floats gently along the ocean tides. It is known to be a potent aphrodisiac. Excessive consumption may cause complications within smaller organics.]
 	[NAME:lovebox:loveboxes:lovebox]
 	[CASTE_NAME:lovebox:loveboxes:lovebox]
 	[CREATURE_TILE:4][COLOR:5:0:1]
@@ -53,6 +53,7 @@ creature_vermin_bsk
 	[VERMIN_FISH]
 	
 	[PREFSTRING:aphrodisiac qualities]
+	[PREFSTRING:beautiful shells]
 	[BODY:BASIC_1PARTBODY:SHELL]
 	[USE_MATERIAL_TEMPLATE:MUSCLE:MUSCLE_TEMPLATE]
 		[SYNDROME]
