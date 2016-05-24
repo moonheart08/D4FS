@@ -1,3 +1,5 @@
+item_weapon_ranged_gav
+
 [OBJECT:ITEM]
 
 [ITEM_WEAPON:ITEM_WEAPON_58_MUSKET]
