@@ -1,0 +1,9 @@
+item_ammo_gav
+
+[OBJECT:ITEM]
+
+[ITEM_AMMO:ITEM_AMMO_BULLET_58_MUSKET_BALL]
+[NAME:.58 caliber musket ball:.58 caliber musket balls] 
+[CLASS:BULLET_54_MUSKET]
+[SIZE:50]
+[ATTACK:EDGE:5.8:50:pierce:pierces:NO_SUB:1050]
