@@ -210,7 +210,7 @@ creature_bsk
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:3512:2634:1756:878:4900:6900] 10 kph
 
 [CREATURE:CLOCKWORK_WHEEL_BSK]
-	[DESCRIPTION:A cheap one-shot device hacked together from spare parts, used primarily for transportation purposes. Its ramshackle system of gears and mechanisms rotate steadily in continuous cycle.]
+	[DESCRIPTION:A cheap one-shot device hacked together from spare parts, used primarily for transportation purposes. Its ramshackle system of gears and mechanisms rotate together in rickety tandem. Most do not last a season's use before breaking down.]
 	[NAME:clockwork wheel:clockwork wheels:clockwork]
 	[CASTE_NAME:clockwork wheel:clockwork wheels:clockwork]
 	[CREATURE_TILE:'o'][COLOR:6:0:0]
