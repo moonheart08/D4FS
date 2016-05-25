@@ -92,7 +92,7 @@ creature_bsk
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:150000:150000:150000:150000:150000:150000] really really slow
 
 [CREATURE:PORKHOG_BSK]
-	[DESCRIPTION:An overly aggresive gerbil porcupine that launches spines at anything that moves. This is in spite of its diminiutive size, being able to fit snugly into one's palm (if one does not mind losing a few fingers).]
+	[DESCRIPTION:An overly aggressive gerbil porcupine that launches spines at anything that moves. This is in spite of its diminiutive size, being able to fit snugly into one's palm (if one does not mind losing a few fingers).]
 	[NAME:porkhog:porkhogs:porkhog]
 	[CASTE_NAME:porkhog:porkhogs:porkhog]
 	[CREATURE_TILE:'p'][COLOR:6:0:0]
