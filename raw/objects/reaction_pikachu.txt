@@ -16,7 +16,7 @@ reaction_pikachu
 [FUEL]
 
 
-[REACTION:CONVERT_COPPER_TO_IRON]
+[REACTION:CONVERT_COPPEROID_TO_COPPER]
 [NAME:convert copperoid to copper bars]
 [BUILDING:SMELTER:NONE]
 [DESCRIPTION:there are creatures composed of copper. this allows you to convert their parts into copper bars]
