@@ -1,4 +1,4 @@
-creature_fanciful_pikach
+creature_fanciful_pikachu
 
 [OBJECT:CREATURE creature_standard now made to be a fanciful file. also some other fanciful stuff
 
@@ -30,7 +30,7 @@ creature_fanciful_pikach
 [CREATURE:LEGOLAS_PIKACHU]
 [NAME:Legolas:Legolas:Legolas]
 [DOES_NOT_EXIST][ARENA_RESTRICTED][FANCIFUL][MALE]
-[PREFSTRING:killing a mumak in a inefficient way.][PREFSTRING:being a hippy][PREFSTRING:bringing a bow toa sword-fight][PREFSTRING:stupidly using a bow in close quarters combat][PREFSTRING:pointy ears][PREFSTRING:Showing up poor Gimli][PREGFSTRING:being Aragorn's and Gimli's friend]
+[PREFSTRING:killing a mumak in a inefficient way.][PREFSTRING:being a hippy][PREFSTRING:bringing a bow to a sword-fight][PREFSTRING:stupidly using a bow in close quarters combat][PREFSTRING:pointy ears][PREFSTRING:Showing up poor Gimli][PREGFSTRING:being Aragorn's and Gimli's friend]
 [PREFSTRING:sucking]
 
 [CREATURE:NOBLE_PIKACHU]

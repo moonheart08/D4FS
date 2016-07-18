@@ -1,6 +1,8 @@
 creature_fake_pikachu
 [OBJECT:CREATURE]
 just some fake creatures
+creature_fake_pikachu
+
 [CREATURE:ANIMAL]for creatures that have just the basic un-changed bodyparts
 [ARENA_RESTRICTED][DOES_NOT_EXIST]
 [NAME:animal:animal:animal]
