@@ -8,7 +8,6 @@ TODO lenaf berry
 [PLANT:BERRIES_STRAW_CAVE]these are copied from normal strawberries. Underground starwberries.
 	[NAME:cave strawberry plant][NAME_PLURAL:cave strawberry plants][ADJ:cave strawberry plant]
 	[USE_MATERIAL_TEMPLATE:STRUCTURAL:STRUCTURAL_PLANT_TEMPLATE]
-	[DESCRIPTION:Strawberries that grow in caves! YAY!]
 		[MATERIAL_VALUE:2]
 		[EDIBLE_VERMIN]
 		[EDIBLE_RAW]
